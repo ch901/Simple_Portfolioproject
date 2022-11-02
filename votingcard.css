@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+  }
+  .red{
+    color: red;
+  }
+  table{
+    width: 50%;
+    
+  }
+  table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  th{ 
+    text-align: left;
+    width: 30%;
+  }
+  td{
+    text-align: center;
+  }
