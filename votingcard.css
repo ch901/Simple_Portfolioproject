@@ -1,5 +1,14 @@
 body{
     background-color: yellow;
+    padding-left: 20px;
+    border: 2px solid black;
+    width: 600px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+  }
+  div{
+    border: 200px;
+
   }
   .red{
     color: red;
